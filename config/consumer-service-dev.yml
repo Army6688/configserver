@@ -1,0 +1,6 @@
+server:
+  port: 9193
+
+
+my:
+  name: Army
